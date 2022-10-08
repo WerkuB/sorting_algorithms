@@ -35,7 +35,7 @@ void merge_sort(int *array, size_t size);
 /* helper functions */
 void qs(int *arr, int low, int high, size_t size);
 int partition(int *arr, int low, int high, size_t size);
-listint_t *swap_nodes(listint_t *n, listint_t *b, listint_t *head);
+/*listint_t *swap_nodes(listint_t *n, listint_t *b, listint_t *head);*/
 void qsh(int *array, int low, int high, size_t size);
 int partitionh(int *arr, int low, int high, size_t size);
 void swap(int *array, int i, int j, size_t size);
